@@ -1,0 +1,27 @@
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/p1.jpg) center/cover no-repeat;
+}
+
+
+.about-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/p2.jpg) center/cover no-repeat;
+} 
+
+
+.servise-header{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/p2.jpg) center/cover no-repeat;
+}
+
+
+.project-header{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/p2.jpg) center/cover no-repeat;
+}
+
+
+.contact-header{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/p2.jpg) center/cover no-repeat;
+}
+
+
+
+
